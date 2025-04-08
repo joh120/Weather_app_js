@@ -1,6 +1,6 @@
 # Weather_app_js
 
-Weather App 
+Weather App JS
 
 
 Build a weather application that fetches weather data from an API asynchronously and displays it to the user.
